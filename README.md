@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bet93
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C Programming/ Java Programming
+- 🌱 I’m currently learning mobile application development using Swift for iOS. I am proficient in C and Java.
 - 💞️ I’m looking to collaborate on any coding projects
 - 📫 How to reach me: sara.m.betancourth@gmail.com
 
